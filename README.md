@@ -1,5 +1,8 @@
 ## general customiztion 
 
+![Version](https://img.shields.io/badge/version-20.7.2026-blue)
+
+
 This repository includes customizations that improve ERPnext. Inspired by various ERP solutions.
 
 ## features
